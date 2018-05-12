@@ -1,0 +1,33 @@
+_repo: Leonie-of-the-Jungle_15841
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conquest, Joan
+    birthdate: 1883
+    deathdate: 1941
+    gutenberg_agent_id: '5938'
+    url: http://www.gutenberg.org/2009/agents/5938
+description: Death and despair are never far behind the beautiful Leonie Hetth. Orphaned
+  in India at four months old and raised by her vapid, aging maiden aunt in cold,
+  wet England, Leonie has no one to turn to when her nightmares begin taking their
+  toll on those around her. Only young brain surgeon Jonathan Cuxson, Jr., seems to
+  understand her. Following in his late father's footsteps, he's determined to discover
+  the root of Leonie's destructive bouts of sleepwalking and unconscious Hindustani
+  mutterings. And somewhere, deep in the jungle, a mad priest waits patiently for
+  his entranced human sacrifice to reach India's shores...
+gutenberg_issued: '2005-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction'
+title: Leonie of the Jungle
+url: http://www.gutenberg.org/ebooks/15841
